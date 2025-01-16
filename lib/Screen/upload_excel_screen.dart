@@ -132,12 +132,12 @@ class _UploadExcelScreenState extends State<UploadExcelScreen> {
                           scrollDirection: Axis.horizontal,
                           child: DataTable(
                             columns: [
-                              DataColumn(label: Text('a')),
-                              DataColumn(label: Text('b')),
-                              DataColumn(label: Text('c')),
-                              DataColumn(label: Text('d')),
-                              DataColumn(label: Text('e')),
-                              DataColumn(label: Text('f')),
+                              DataColumn(label: Text('1')),
+                              DataColumn(label: Text('2')),
+                              DataColumn(label: Text('3')),
+                              DataColumn(label: Text('4')),
+                              DataColumn(label: Text('5')),
+                              DataColumn(label: Text('6')),
                             ],
                             rows: _excelData!
                                 .sublist(1)
