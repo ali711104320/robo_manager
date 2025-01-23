@@ -39,6 +39,12 @@ dependencies:
   path: ^1.9.0
   syncfusion_flutter_xlsio: ^28.1.39
   excel: ^4.0.6
+  csv: ^6.0.0
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.5
+  pdf: ^3.11.1
+  printing: ^5.13.4
+  
 
 dev_dependencies:
   flutter_test:

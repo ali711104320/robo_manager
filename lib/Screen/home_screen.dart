@@ -14,8 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
     ReportsScreen(),
     Scaffold(
       appBar: AppBar(
-        title: Text('الرئسية'),
-        backgroundColor: Colors.deepPurple,
+        title: Text('الرئيسية'),
       ),
       body: Center(
         child: Text(
